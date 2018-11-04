@@ -4,7 +4,6 @@ C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\MainWindow.g.cs
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\App.g.cs
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\WITS Software_MarkupCompile.cache
-C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\WITS Software_MarkupCompile.lref
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\MainWindow.baml
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\WITS Software.g.resources
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\WITS_Software.Properties.Resources.resources
@@ -105,3 +104,9 @@ C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
 C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\obj\Debug\WITS Software.exe.licenses
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\DevExpress.Xpf.Gauges.v18.1.dll
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\DevExpress.Xpf.Gauges.v18.1.xml
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\de\DevExpress.Xpf.Gauges.v18.1.resources.dll
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\es\DevExpress.Xpf.Gauges.v18.1.resources.dll
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\ja\DevExpress.Xpf.Gauges.v18.1.resources.dll
+C:\Users\UX410\Documents\Visual Studio 2017\WPF\WITS Software\WITS Software\bin\Debug\ru\DevExpress.Xpf.Gauges.v18.1.resources.dll
